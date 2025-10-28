@@ -1,0 +1,7 @@
+# Ignore auto-generated platform files so GitHub detects Dart properly
+linux/* linguist-vendored
+windows/* linguist-vendored
+macos/* linguist-vendored
+android/* linguist-vendored
+ios/* linguist-vendored
+build/* linguist-vendored
